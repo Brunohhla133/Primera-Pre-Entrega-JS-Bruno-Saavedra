@@ -14,11 +14,11 @@ switch (menu) {
         alert(mensajeUno)
         break;
     case 2:
-        let mensajeDos = ""
+        let mensajeDos = "Estos son los pantalónes en stock: \n PANTALÓN JEEN \n PANTALÓN CARGO \n PANTALÓN JOGGER \n PANTALON BLACK "
         alert(mensajeDos)
         break;
     case 3:
-        let mensajeTres = ""
+        let mensajeTres = "Estas son las camperas en stock: \n CAMPERA OVERSIZE \n CAMPERA SKY \n CAMPERA DREAM \n CAMPERA WH"
         alert(mensajeTres)
         break
     default:
